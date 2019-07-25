@@ -19,10 +19,8 @@ Before compiling codes, the following software should be installed in your syste
 - From http://math.bu.edu/people/kolaczyk/datasets.html you can download following datasets: AIDSBlog, Ecoli_microarray, epilepsy, packet_delay, ppi, PPI_function, router_INET, TM-ESTIMATION and zachary
 - From http://cb.csail.mit.edu/cb/mna/isobase/ you can download following datasets: Isobase
 - From http://socialcomputing.asu.edu/pages/datasets you can download following datasets: BlogCatalog and Flickr
-- From http://www-personal.umich.edu/~mejn/netdata/ you can download following datasets: karate, lesmis, adjnoun, football, dolphins, polblogs, polbooks, celegansneural, power, cond-mat, cond-mat-2003, cond-mat-2005, astro-ph, hep-th, netscience and as-22july06 
+- From http://www-personal.umich.edu/~mejn/netdata/ you can download following datasets: lesmis, adjnoun, football, dolphins, polblogs, polbooks, celegansneural, power, cond-mat, cond-mat-2003, cond-mat-2005, astro-ph, hep-th, netscience and as-22july06 
 - From https://figshare.com/articles/American_College_Football_Network_Files/93179 you can download following dataset: footballTSE
-
-Note that zachary and karate are the same datasets, the difference is that zachary dataset provides ground-truth while karate without ground-truth
 
 ## Test dataset
 - zachary dataset
